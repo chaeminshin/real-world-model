@@ -1,0 +1,16 @@
+D:\GitHub\real-world-model\bin\Debug\net5.0\real-world-model.exe
+D:\GitHub\real-world-model\bin\Debug\net5.0\real-world-model.deps.json
+D:\GitHub\real-world-model\bin\Debug\net5.0\real-world-model.runtimeconfig.json
+D:\GitHub\real-world-model\bin\Debug\net5.0\real-world-model.runtimeconfig.dev.json
+D:\GitHub\real-world-model\bin\Debug\net5.0\real-world-model.dll
+D:\GitHub\real-world-model\bin\Debug\net5.0\ref\real-world-model.dll
+D:\GitHub\real-world-model\bin\Debug\net5.0\real-world-model.pdb
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.csprojAssemblyReference.cache
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.AssemblyInfoInputs.cache
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.AssemblyInfo.cs
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.csproj.CoreCompileInputs.cache
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.dll
+D:\GitHub\real-world-model\obj\Debug\net5.0\ref\real-world-model.dll
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.pdb
+D:\GitHub\real-world-model\obj\Debug\net5.0\real-world-model.genruntimeconfig.cache
