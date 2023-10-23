@@ -1,2 +1,9 @@
 # real-world-model
-High Quality Software Programming
+
+
+To run:
+
+```
+dotnet run
+
+```
